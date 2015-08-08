@@ -1,9 +1,12 @@
 # Detalhes de configuração do ambiente
 
-Este é o conjunto de produto WSO2 e ferramentas que utilizaremos durantes os
+Este é o conjunto de produtos WSO2 e ferramentas que utilizaremos durante os
 laboratórios. Recomenda-se que você só instale os produtos a medida que forem
-necessários nos Labs. Muito cuidado e atenção na configuração do off-set das
-portas, pois em alguns momentos trabalharemos com até 4 produtos ao mesmo tempo.
+necessários nos Labs.
+
+Muito cuidado e atenção na configuração do off-set das
+portas, pois em alguns momentos trabalharemos com até 4 ou 5 produtos ao mesmo
+tempo, e isso vai evitar conflitos de portas e dificuldades de configuração.
 
 1. Java 1.7
 2. WSO2 ESB 4.8.1 (http://docs.wso2.com/display/ESB481/Getting+Started)
@@ -25,7 +28,8 @@ portas, pois em alguns momentos trabalharemos com até 4 produtos ao mesmo tempo
 
 ## Off-set das portas
 
-O off-set de porta dos produtos pode ser configurado no arquivo: [PRODUCT_HOME]/repository/conf/carbon.xml
+O off-set de porta dos produtos pode ser configurado no arquivo:
+`[PRODUCT_HOME]/repository/conf/carbon.xml`
 
 |Produto|Porta|
 |-------|-----|
