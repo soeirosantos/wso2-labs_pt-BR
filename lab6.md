@@ -8,6 +8,8 @@ uma API REST.
 ### Recursos
 
 * WSO2 DSS 3.2.2
+* Um banco de dados com uma tabela populada
+* Driver de banco
 
 ### Procedimento
 

@@ -7,6 +7,9 @@ Expor a API REST que criamos no Lab 6 através do API Manager
 ### Recursos
 
 * WSO2 DSS 3.2.2
+* WSO2 API Manager 1.9.0
+* Um banco de dados com uma tabela populada
+* Driver de banco
 
 ### Procedimento
 
