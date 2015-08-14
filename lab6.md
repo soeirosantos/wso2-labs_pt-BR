@@ -13,6 +13,8 @@ uma API REST.
 
 ### Procedimento
 
+//TODO: inlcuir como configurar o Driver no DSS
+
 1. Depois de logar no DSS, selecione Data Service criado no **Lab 5** e navegue
 até `Resources`.
 
