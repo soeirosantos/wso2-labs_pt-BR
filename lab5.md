@@ -13,6 +13,8 @@ serviços SOAP.
 
 ### Procedimento
 
+//TODO: inlcuir como configurar o Driver no DSS
+
 1. Depois de logar no DSS, crie o DataSource,
 `Configure > Data Sources > Add Data Source` (a criação do DS é bastante simples
    e auto-explicativa).
