@@ -14,7 +14,7 @@ Este é um trabalho em progresso e a maioria dos laboratórios ainda estão em
 3. [Rest SimpleStockQuoteServiceAPI](./lab3.md)
   * Opcional: [Implementar Content Negotiation](./lab3_1.md)  
   * Opcional: [Extrair o PayloadFactory para uma Sequence](./lab3_2.md)  
-4. [File System SimpleStockQuoteService](./lab4.md)
+4. [File System VfsStockQuoteProxy](./lab4.md)
 5. [DSS da tabela Employees - CRUD Soap](./lab5.md)
 6. [DSS da tabela Employees - CRUD Rest](./lab6.md)
 7. [Expor DSS através do API Manager](./lab7.md)
